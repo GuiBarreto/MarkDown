@@ -15,10 +15,10 @@ Teste  __*Curso em vídeo*__ *misturando* **configurações**
 
 Lista numerada
 
-1. teste 1
-2. teste 2
+1. teste 
+2. teste
    2.teste2
-3. teste3
+3. teste
 
 Lista demarcada
 
