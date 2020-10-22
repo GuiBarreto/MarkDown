@@ -17,6 +17,7 @@ Lista numerada
 
 1. teste 1
 2. teste 2
+   2.teste2
 3. teste3
 
 Lista demarcada
