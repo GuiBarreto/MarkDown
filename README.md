@@ -1,5 +1,5 @@
 # MarkDown
-Amostra do MarkDown no GitHub
+Amostra do poder do MarkDown no GitHub
 
 # Teste Título Nível 1
 ---
