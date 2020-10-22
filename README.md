@@ -16,8 +16,8 @@ Teste  __*Curso em vídeo*__ *misturando* **configurações**
 Lista numerada
 
 1. teste 
-2. teste
-   2.teste2
+2. teste 
+   2. sub-teste 
 3. teste
 
 Lista demarcada
