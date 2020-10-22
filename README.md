@@ -44,7 +44,7 @@ Num | Nome | Nota
 3 | Bruno | 9.2
 4 | Ozzy | 9.7
 
-Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
+Você sabe para que serve o comando `document.getElementById()` da linguagem JavaScript?
 
 
 Olhe meu programa em Python
